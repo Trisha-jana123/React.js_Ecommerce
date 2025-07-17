@@ -56,8 +56,6 @@ ecommerce/
 ├── package.json
 ├── package-lock.json
 └── README.md
-
-
 ---
 
 ## 🧰 Tech Stack
