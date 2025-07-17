@@ -7,55 +7,57 @@ Users can **view detailed product pages, add items to their cart, and proceed to
 This project can be used as a **template** or a **starting point** for a more advanced full-stack eCommerce application.
 
 ---
-
 ## 📁 Folder Structure
 
+```
 ecommerce/
 ├── public/
-│ ├── index.html
-│ ├── favicon.ico
-│ ├── logo192.png
-│ ├── logo512.png
-│ └── manifest.json
+│   ├── index.html
+│   ├── favicon.ico
+│   ├── logo192.png
+│   ├── logo512.png
+│   └── manifest.json
 ├── src/
-│ ├── Components/
-│ │ ├── Assets/
-│ │ ├── Breadcrumbs/
-│ │ ├── CartItems/
-│ │ ├── DescriptionBox/
-│ │ ├── Footer/
-│ │ ├── Hero/
-│ │ ├── Item/
-│ │ ├── Navbar/
-│ │ ├── NewCollections/
-│ │ ├── NewsLetter/
-│ │ ├── Offers/
-│ │ ├── Popular/
-│ │ ├── ProductDisplay/
-│ │ └── RelatedProducts/
-│ ├── Context/
-│ │ └── ShopContext.jsx
-│ ├── Pages/
-│ │ ├── CSS/
-│ │ │ ├── LoginSignup.css
-│ │ │ └── ShopCategory.css
-│ │ ├── Cart.jsx
-│ │ ├── LoginSignup.jsx
-│ │ ├── Product.jsx
-│ │ ├── Shop.jsx
-│ │ └── ShopCategory.jsx
-│ ├── App.css
-│ ├── App.js
-│ ├── App.test.js
-│ ├── index.css
-│ ├── index.js
-│ ├── logo.svg
-│ ├── reportWebVitals.js
-│ └── setupTests.js
+│   ├── Components/
+│   │   ├── Assets/
+│   │   ├── Breadcrumbs/
+│   │   ├── CartItems/
+│   │   ├── DescriptionBox/
+│   │   ├── Footer/
+│   │   ├── Hero/
+│   │   ├── Item/
+│   │   ├── Navbar/
+│   │   ├── NewCollections/
+│   │   ├── NewsLetter/
+│   │   ├── Offers/
+│   │   ├── Popular/
+│   │   ├── ProductDisplay/
+│   │   └── RelatedProducts/
+│   ├── Context/
+│   │   └── ShopContext.jsx
+│   ├── Pages/
+│   │   ├── CSS/
+│   │   │   ├── LoginSignup.css
+│   │   │   └── ShopCategory.css
+│   │   ├── Cart.jsx
+│   │   ├── LoginSignup.jsx
+│   │   ├── Product.jsx
+│   │   ├── Shop.jsx
+│   │   └── ShopCategory.jsx
+│   ├── App.css
+│   ├── App.js
+│   ├── App.test.js
+│   ├── index.css
+│   ├── index.js
+│   ├── logo.svg
+│   ├── reportWebVitals.js
+│   └── setupTests.js
 ├── .gitignore
 ├── package.json
 ├── package-lock.json
 └── README.md
+```
+
 ---
 
 ## 🧰 Tech Stack
