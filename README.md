@@ -70,6 +70,16 @@ ecommerce/
 
 ---
 
+## 📸 Screenshots
+
+![Home Page](./preview.png)
+
+![Product Page](./preview1.png)
+
+![Cart Page](./preview2.png)
+
+![Cart1 Page](./preview3.png)
+
 ## ✨ Features
 
 ✅ Home Page with:
