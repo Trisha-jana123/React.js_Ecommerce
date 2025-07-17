@@ -72,13 +72,13 @@ ecommerce/
 
 ## 📸 Screenshots
 
-![Home Page](./preview.png)
+![Home Page](./screenshots/preview.png)
 
-![Product Page](./preview1.png)
+![Product Page](./screenshots/preview1.png)
 
-![Cart Page](./preview2.png)
+![Cart Page](./screenshots/preview2.png)
 
-![Cart1 Page](./preview3.png)
+![Cart1 Page](./screenshots/preview3.png)
 
 ## ✨ Features
 
